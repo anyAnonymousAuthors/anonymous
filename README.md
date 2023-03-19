@@ -34,7 +34,7 @@ The performance of Diaster with and without learning a Markovian step-wise rewar
 
 We compare DQN + Diaster and DQN on several MiniGrid-BabyAI environments (visual input, discrete control, episodic reward setting).
 
-
+![](figs/babyai.png)
 
 
 
